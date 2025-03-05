@@ -1,0 +1,33 @@
+---
+title: "metadata"
+format: html
+---
+---
+title: "Dataset Metadata Documentation"
+author: "Deandre Vo"
+date: "`r Sys.Date()`"
+format: html
+---
+
+# Dataset Description
+
+This document provides metadata information for the dataset:
+
+- **Title:** Transitions in Smartphone Addiction Proneness Among Children  
+- **Creators:** Fong-Ching Chang, Jeng-Tung Chiang, Kun-Wei Lee, Szu-Yuan Hsu  
+- **Publication Date:** June 6, 2019  
+- **Persistent Identifier (DOI):** [10.5061/dryad.d1h80v0](https://datadryad.org/stash/dataset/doi:10.5061/dryad.d1h80v0)  
+- **Source Repository:** Dryad Digital Repository  
+- **Description:** This dataset explores transitions in smartphone addiction proneness among children, with a focus on gender differences and usage patterns.  
+- **Data Format:** CSV  
+
+# Metadata Files
+
+The dataset has been documented using the `dataspice` package in R, generating the following metadata files:
+
+- `access.csv` – Information on dataset access
+- `attributes.csv` – Variable descriptions
+- `biblio.csv` – Citation details
+- `creators.csv` – Dataset authors  
+https://datadryad.org/dataset/doi:10.5061/dryad.d1h80v0#aff3721
+C:/Users/xxxgl/Downloads/activity 3 ss.png
